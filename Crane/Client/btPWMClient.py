@@ -39,7 +39,7 @@ def drawBT(colour):
 doBT = True
 　
 # Define the Bluetooth address of our Bluetooth server
-serverBTAddress = "B8:27:EB:66:55:58"
+serverBTAddress = "00:00:00:00:00:00"
 　
 # Create client bluetooth socket and connect to server
 if doBT:
